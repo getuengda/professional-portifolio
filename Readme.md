@@ -18,7 +18,7 @@ Technical projects - You can find my personal technical projects in the technica
 Contact
 Getu Taddesse - getuengda@gmail.com
 
-Project Link:
+Project Link:(https://github.com/getuengda/professional-portifolio)
 
 
 Acknowledgments
